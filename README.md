@@ -1,6 +1,6 @@
 # nlp_oilprice_kcc2020
 2020년 한국컴퓨터종합학술대회(정보과학회) 제출논문 관련 분석 프로그램 및 데이터  
-주제 : 뉴스 임베딩 방법에 따른 경제변수 예측성능 비교 (국제유가를 중심으로)  
+주제 : **뉴스 임베딩 방법에 따른 경제변수 예측성능 비교 (국제유가를 중심으로)**    
 (Forecasting Performance Comparison for Economic Variable by News Embedding Method)   
 링크: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09874528   
 
