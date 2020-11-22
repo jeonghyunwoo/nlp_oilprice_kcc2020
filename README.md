@@ -7,7 +7,7 @@ link : [dbpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09874528
 
 
 뉴스 텍스트를 doc2vec, tfidf, sentiment analysis 등 다양한 자연어처리(NLP) 기법을 이용하여   
-수치화(벡터화)하는 방법을 총칭하여 '뉴스 임베딩(News Embedding)'이라 명명하였음.  
+수치화(벡터화)하였으며, 이 방법들을 총칭하여 '뉴스 임베딩(News Embedding)'이라 명명하였음  
   
 국제유가와 관련한 뉴스를 인터넷에서 수집한 후 다양한 방법으로 수치화하고,  
 각 임베딩 결과들의 조합에 따라 국제유가 예측모형을 만들어 예측성과를 비교함으로써  
