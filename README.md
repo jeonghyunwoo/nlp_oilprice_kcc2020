@@ -3,8 +3,8 @@
 
 주제 : **뉴스 임베딩 방법에 따른 경제변수 예측성능 비교 (국제유가를 중심으로)**    
 (Forecasting Performance Comparison for Economic Variable by News Embedding Method)   
-dbpia : [https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09874528]
-컴퓨터연구정보센터 : [https://bit.ly/3foTnDy]
+[dbpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09874528)   
+[cseric](https://bit.ly/3foTnDy)
 
 
 뉴스 텍스트를 doc2vec, tfidf, sentiment analysis 등 다양한 자연어처리(NLP) 기법을 이용하여   
