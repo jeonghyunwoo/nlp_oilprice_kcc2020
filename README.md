@@ -1,6 +1,3 @@
-Research project on news embedding methods for economic variable forecasting.
-Compares embedding approaches to improve prediction performance in macro-financial analysis.
-
 # nlp_oilprice_kcc2020
 ### 2020년 한국컴퓨터종합학술대회(KCC2020,한국정보과학회) 제출논문 관련 분석 프로그램 및 데이터  
 
